@@ -3375,7 +3375,27 @@ span.m_1 {
 }
 
 .img-bg-04 {
-    background: url(swv/8.jpg) no-repeat center;
+    background: url(swv/12.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.img-bg-05 {
+    background: url(swv/16.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.img-bg-06 {
+    background: url(swv/6.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.img-bg-07 {
+    background: url(swv/15.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.img-bg-08 {
+    background: url(swv/17.jpg) no-repeat center;
     background-size: cover;
 }
 
